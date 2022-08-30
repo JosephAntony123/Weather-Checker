@@ -1,0 +1,12 @@
+
+
+pip install pytz
+pip install geopy
+pip install timezonefinder
+pip install requests
+pip install pillow
+
+
+api_format=https://api.openweathermap.org/data/3.0/onecall?lat=33.44&lon=-94.04&exclude=hourly,daily&appid={API key}
+
+api_code=646824f2b7b86caffec1d0b16ea77f79
